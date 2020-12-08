@@ -15,7 +15,6 @@ ul.navbar-nav, .jumbotron h1 {
     text-align: center;
     color: white;
     background-image: url('../images/mec_owl.jpg');
-    
 }
 
 .jumbotron h1{
@@ -29,6 +28,11 @@ ul.navbar-nav, .jumbotron h1 {
     font-weight: 600;
     padding: 0px 50px;
 }
+
 .btn-lg{
     font-size: 25px;
+}
+
+.container {
+    text-align: center;
 }
